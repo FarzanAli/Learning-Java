@@ -1,0 +1,13 @@
+f4(s1,s2) from Mystery1.java:
+	Returns true if s2 is not an element of g(s1) and if s2 is an element of the set made from
+the union of N g(s) calls where s is every element from g(s1) (N = |g(s1)|). False otherwise. g(s)
+takes s (String) as input and returns a set of Strings. This set is made by checking each tuple in S2.
+If the tuple has s as its first field, its second field is added to the set that will be returned from g(s).
+
+f2() from Mystery2.java:
+	This function returns the first field of x where x is the X object with the greatest value for its
+third field(x3). It also sets S to a new set. for demonstration purposes lets call the new set s. Union is performed
+between the sets resulted from g2(x.x1) and g3(x.x1) then set to s where x.x1 is the first field of x where x is the
+X object described previously. x is then subtracted from s and s is set to S the state variable. g2(t) takes t of type T
+and returns a set of X objects in S which have t as its x2 value but replaced with k(the local constant). g3(t) takes t
+of type T and returns a set of all X objects that are in S that have an x2 value that does not equal to t.
