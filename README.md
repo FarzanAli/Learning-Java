@@ -7,7 +7,7 @@ Series of small projects completed in Java to help learn the language (Universit
 
 **A2:** Implemented an MIS (Module Interface Specification, see pages 3-6 of [MIS.pdf](https://github.com/FarzanAli/Learning-Java/blob/main/A2/MIS.pdf)). [A2.txt](https://github.com/FarzanAli/Learning-Java/blob/main/A2/A2.txt) includes a verbal explanation of f4() from [Mystery1.java](https://github.com/FarzanAli/Learning-Java/blob/main/A2/Mystery1.java) and f2() from [Mystery2.java](https://github.com/FarzanAli/Learning-Java/blob/main/A2/Mystery1.java) as required by assignment. This assignment was crucial in learning the importance of an MIS as I used the specified behaviour of a module's access routine to create a working program.
 
-Some learning points I got to take away from this course:
+Some learning points I got to take away from this specific course:
 - OOP principles
 - Java design patterns
 - Software Engineering principles
