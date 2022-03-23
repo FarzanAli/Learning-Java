@@ -1,5 +1,5 @@
 ## Learning-Java
-Series of small projects completed in Java to help learn the language (for COMPSCI 2ME3).
+Series of small projects completed in Java to help learn the language (for [COMPSCI 2ME3](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=227783)).
 
 **A0:** Simple Square object holding MyPoint object as its position and a double describing its length. Learned about getter functions along with invoking inherited object's functions.
 
